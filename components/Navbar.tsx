@@ -25,7 +25,7 @@ import styles from  '../styles/Home.module.css';
 const MenuItem = [
     {text: 'Countries and Cities', href:'/'},
     {text: 'History', href:'/history'},
-    {text: 'Religion', href:'/religion'},
+    // {text: 'Religion', href:'/religion'},
 ]
 
 const drawerWidth = 240;
